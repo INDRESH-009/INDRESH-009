@@ -30,6 +30,9 @@ More projects to explore in my [repos](https://github.com/INDRESH-009?tab=reposi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDRESH-009&layout=compact&theme=midnight-purple)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=INDRESH-009&theme=midnight-purple)  
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=INDRESH-009&theme=onedark&margin-w=15)
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Indresh15&theme=dark)
+
 
 ## 🌐 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/indreshmr/)  
