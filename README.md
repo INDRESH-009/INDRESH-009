@@ -1,43 +1,48 @@
-# Hi there, I'm Indresh! 👋  
+# Yo, I’m Indresh! 👾
 
-### 🚀 Full Stack Developer | Blockchain Enthusiast  
+Hey there! I’m **Indresh**, a **Software Engineer** and tech trailblazer hacking away at the universe’s toughest problems. I live for code, coffee, and creating solutions that scale like crazy and help humanity. Welcome to my GitHub—where brilliance meets blockchain, AI, and a bit of chaos!
 
-💡 **About Me:**  
-🔹 Passionate about **Web Development, AI, and Blockchain**  
-🔹 Building **CleanBites AI** and contributing to **open-source** projects  
-🔹 Always learning and exploring **Web3, Smart Contracts, and Security**  
+![Code Vibes](https://media.giphy.com/media/26xBI73gWquCrhhmE/giphy.gif)
 
----
+## 🌌 About Me
+- 🌍 Stationed as a **Remote Coder, Earth**
+- 🎓 Studying **CS (Big Data Analytics)** at SRM Institute—rocking a 9.89 CGPA
+- ⚙️ **Tech Stack**: JavaScript, MERN (MongoDB, Express, React, Node.js), Python, C++, PostgreSQL, Solidity, Hardhat, and a sprinkle of etc.
+- 🌱 **Grinding On**: Scalable + efficient backends, Blockchain domination, and AI that thinks harder than I do
+- ⚡ **Fun Fact**: I once tweeted about coding a bot to roast my bugs—turns out, it’s better at insults than fixes! (Inspired by your @explode73 energy)
 
-## 🌟 **Tech Stack**  
+## 🛠️ Geeky Masterpieces
+Check out my proudest builds—proof I’m a code ninja:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss)  
+- **[Block My Show](https://github.com/INDRESH-009/block-my-show)**  
+  A blockchain-powered event ticketing platform with NFT tickets, smart contracts, and resale restrictions. MetaMask integration included.  
+  **Tech**: Solidity, Hardhat, Next.js, IPFS, MetaMask, Alchemy, Express.js
 
----
+- **[CleanBites AI](https://github.com/INDRESH-009/cleanbites-ai)**  
+  AI-driven food health analyzer using OCR to scan labels, offering personalized dietary insights for smarter eating (SDG-03 vibes).  
+  **Tech**: Next.js, Node.js, MongoDB, Google Vision API, Cloudinary, OpenAI API
 
-## 📊 **GitHub Stats & Streaks**  
+- **[BrainQuest](https://github.com/INDRESH-009/brainquest)**  
+  An AI tool that analyzes critical thinking, spots cognitive biases, and compares you to legendary thinkers—gamified for max fun (SDG-04).  
+  **Tech**: Next.js, Node.js, MongoDB, OpenAI API, Express
 
-![Indresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=INDRESH-009&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDRESH-009&layout=compact&theme=radical)](https://github.com/INDRESH-009)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=INDRESH-009&theme=radical)](https://github.com/INDRESH-009)  
+More epicness in my [repos](https://github.com/INDRESH-009?tab=repositories)!
 
----
+## 📊 My Code Stats
+![Indresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=INDRESH-009&show_icons=true&theme=midnight-purple)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDRESH-009&layout=compact&theme=midnight-purple)
 
-## 🎨 **GitHub Profile Banner**  
-![Profile Banner](https://github.com/INDRESH-009/INDRESH-009/raw/main/assets/banner.png)  
+## 🌐 Link Up with the Code King
+- [LinkedIn](https://www.linkedin.com/in/indreshmr/)  
+- [Twitter/X](https://twitter.com/explode73)  
+- 📧 [indresh15.dev@gmail.com](mailto:indresh15.dev@gmail.com)  
 
-_(Upload a banner image in your profile repository under `/assets/banner.png` and replace the above link accordingly.)_
+DM me about code, health tech, or why C++ is secretly the best—let’s geek out!
 
----
+## 🚀 Future Quests
+I’m on a mission to **build my own company**—think software + hardware mashups, with a focus on **health tech** to help millions. Picture scalable backends powering life-changing products. Collab ideas? Hit me up!
 
-## 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/indreshmr/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/INDRESH-009)  
+> "Code isn’t just logic—it’s my superpower."  
+> — Indresh, definitely
 
----
+Thanks for dropping by my digital dojo! May your runtime be O(1) and your builds green. ✨
