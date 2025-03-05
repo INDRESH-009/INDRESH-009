@@ -17,18 +17,15 @@ Here are a few things I’ve worked on that I’m happy to share:
 - **[Block My Show](https://github.com/INDRESH-009/block-my-show)**  
   A blockchain-based platform for secure event ticketing using NFT tickets and smart contracts.  
   **Tech**: Solidity, Hardhat, Next.js, IPFS, MetaMask, Alchemy, Express.js  
-  ![Blockchain Beat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YxM2NjYzQ5MjVjYTUwNjVjNTVjY2Q2YzQ2NWMxYjYxY2MwNjA4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPy3QZQqGtDcrja/giphy.gif)
-
+  ![Blockchain Beat]
 - **[CleanBites AI](https://github.com/INDRESH-009/cleanbites-ai)**  
   An AI tool that scans food labels with OCR to give personalized health insights (tied to SDG-03).  
   **Tech**: Next.js, Node.js, MongoDB, Google Vision API, Cloudinary, OpenAI API  
-  ![AI Spark](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM0ZmUzN2Q4MWM0MjgyZTg0YzMwYzY0ZDYxMzY4MjM4YzQ5NjMwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKkrCRM4e6KQ/giphy.gif)
-
+  ![AI Spark]
 - **[BrainQuest](https://github.com/INDRESH-009/brainquest)**  
   An AI-powered app to analyze critical thinking and spot biases, with a gamified twist (SDG-04).  
   **Tech**: Next.js, Node.js, MongoDB, OpenAI API, Express  
-  ![Brain Wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU4ZmE0Y2MwMjQ2ZDY0MGIzYzNhYjZhZmNhYjU4NWM4ODAyYzRhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDn976rzVgky4/giphy.gif)
-
+  ![Brain Wave]
 More projects to explore in my [repos](https://github.com/INDRESH-009?tab=repositories)!
 
 ## 📊 My Stats
