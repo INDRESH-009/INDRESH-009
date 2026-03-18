@@ -1,50 +1,84 @@
-# Hi, I’m Indresh! 👋
+# Hi, I'm Indresh 👋
 
-Hey there! I’m **Indresh**, a **Software Engineer** who loves tinkering with code and building things that make a difference. I’m all about learning, experimenting, and solving problems—usually with a cup of coffee in hand. Welcome to my GitHub, where I share my projects and journey!
+I’m an **undergraduate researcher and ML engineer** working at the intersection of **Deep Learning, computer vision, physiological signal modeling, and medical AI**.
 
-## 🌍 About Me
-- 📍 Based as a **Remote Coder, Earth**
-- 🎓 Studying **CS**
-- 🛠️ **Tech Stack**: JavaScript, MERN (MongoDB, Express, React, Node.js), Python, C++, PostgreSQL, Solidity, Hardhat, and a bit more
-- 🌱 **Learning**: How to build scalable backends, exploring Blockchain, and dipping into AI
+you can read more about me in  [indreh.dev](https://www.indresh.dev)
 
-## 🔧 My Projects
-Here are a few things I’ve worked on that I’m happy to share:
+## Current Research & Experience
 
-- **[Block My Show](https://github.com/INDRESH-009/Event-Booking-Dapp)**  
-  A blockchain-based platform for secure event ticketing using NFT tickets and smart contracts.  
-  **Tech**: Solidity, Hardhat, Next.js, IPFS, MetaMask, Alchemy, Express.js  
-  ![Blockchain Beat]
-- **[CleanBites AI](https://github.com/INDRESH-009/CleanBites.AI-project)**  
-  An AI tool that scans food labels with OCR to give personalized health insights (tied to SDG-03).  
-  **Tech**: Next.js, Node.js, MongoDB, Google Vision API, Cloudinary, OpenAI API  
-  ![AI Spark]
-- **[BrainQuest](https://github.com/INDRESH-009/brainquest)**  
-  An AI-powered app to analyze critical thinking and spot biases, with a gamified twist (SDG-04).  
-  **Tech**: Next.js, Node.js, MongoDB, OpenAI API, Express  
-  ![Brain Wave]
-More projects to explore in my [repos](https://github.com/INDRESH-009?tab=repositories)!
+### Research Assistant — CMATER Lab, Jadavpur University
+Working under **Prof. Ram Sarkar** on:
+- lightweight and deeply supervised neural architectures
+- skin lesion segmentation with strong cross-dataset generalization
+- ongoing work in **copy-move forgery localization**
 
-## 📊 My Stats
-![Indresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=INDRESH-009&show_icons=true&theme=midnight-purple)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDRESH-009&layout=compact&theme=midnight-purple)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=INDRESH-009&theme=midnight-purple)  
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=INDRESH-009&theme=onedark&margin-w=15)
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Indresh15&theme=dark)
+### Research Assistant — Medical Imaging, SRM IST  
+*(in collaboration with SIMS Hospital)*
+Working on:
+- **X-ray Coronary Angiography (XCA)** image analysis
+- coronary vessel segmentation and anatomical labeling
+- deep learning pipelines for vessel delineation
+- exploration toward stenosis detection and quantification
 
+### Machine Learning Research Intern — Beatly AI
+Worked on:
+- **continuous non-invasive blood pressure estimation**
+- ECG and PPG biosignal learning
+- 1D-CNN and Transformer-based modeling
+- robust validation strategies for better real-world generalization
 
-## 🌐 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/indreshmr/)  
-- [Twitter/X](https://twitter.com/explode73)  
-- 📧 [Mail me at](mailto:indresh15.dev@gmail.com)  
+---
 
-Feel free to reach out about code, ideas, or just to chat—I’m always happy to learn from others!
+## Completed Research Work
 
-## 🌟 What’s Next
-I’d love to **start a company someday**—maybe mixing software and hardware, with a focus on **health tech** to help people. I’m still figuring it out, but I’m excited to keep building and growing. Got thoughts? I’d love to hear them!
+### D-SUPRANet
+**A Deeply Supervised Progressive Refinement Attention Network for Skin Lesion Segmentation**
+- lightweight segmentation architecture
+- strong performance with deployment efficiency in mind
+- under review at **Engineering Applications of Artificial Intelligence**
 
-> "Freedom is not having more its about needing less"  
-> — Indresh, probably
+### FAED
+**Fuzzy Attention Aided Encoder Decoder Architecture**
+- segmentation-focused encoder-decoder framework
+- under review at **Complex & Intelligent Systems**
 
-Thanks for stopping by! Hope you enjoy the ride—happy coding! ✨
+### Biosignal Learning for Blood Pressure Estimation
+- ECG + PPG based modeling
+- comparison of feature-based and learning-based pipelines
+- focus on physiological variability and wearable sensing challenges
+
+---
+
+## Tech Stack
+
+**Languages**  
+Python · JavaScript · C++
+
+**ML / AI**  
+PyTorch · Scikit-learn · CNNs · U-Net · YOLO · Image Processing
+
+**Signal Processing / Biosensing**  
+ECG & PPG Signal Processing · NeuroKit2 · PyWavelets · SciPy
+
+**Data / Systems**  
+NumPy · Pandas · PostgreSQL · MongoDB · AWS · Linux · Git · GitHub
+
+--- 
+
+## GitHub Stats
+
+![Indresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=INDRESH-009&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INDRESH-009&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=INDRESH-009&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [indreshmr](https://www.linkedin.com/in/indreshmr/)
+- **GitHub:** [INDRESH-009](https://github.com/INDRESH-009)
+- **Email:** [indresh15.dev@gmail.com](mailto:indresh15.dev@gmail.com)
+
+---
+
+> “Build things that matter. Understand why they work. Then make them useful.”
